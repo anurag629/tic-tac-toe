@@ -1,4 +1,4 @@
 # tic-tac-toe
 This is tic-tac-toe game .
 
-I am Improving this by adding two options, first one for single player and second one is two player
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ab15383-face-477b-885c-354e08716e26/deploy-status)](https://app.netlify.com/sites/tictactoe-tictactoe/deploys)
